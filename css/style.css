@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Mukta');
+
+body {
+      background-image: url("../images/strawberrybackground.jpg");
+  
+}
+#bookstores{
+    color: blue;
+}
+h2{
+    text-align:  center;
+}
+
+#bookstores {border:2px gray solid;
+}
+h1{
+    font-family: 'Mukta', sans-serif;
+    color: #35D42C;
+}
+#nav a:link{
+    color: yellow;
+}
+#nav a:hover{
+    color:  red;
+}
